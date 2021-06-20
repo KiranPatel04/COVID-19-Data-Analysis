@@ -4,3 +4,5 @@ This repo houses data and code for the analyses of COVID-19 cases, deaths, vacci
 Dataset: Data is collected from [Our World in Data Website for COVID-19](https://ourworldindata.org/covid-deaths) 
 
 Sample metadata is at data/ This folder has the following tables:  data/CovidDeaths and  data/CovidVaccinations
+
+<span style="color:blue">some *blue* text</span>.
