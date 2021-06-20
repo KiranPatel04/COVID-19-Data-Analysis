@@ -1,2 +1,2 @@
 # COVID-data
-Dataset: [https://ourworldindata.org/covid-deaths] (https://ourworldindata.org/covid-deaths)
+Dataset: [Explore the global data on confirmed COVID-19 deaths] (https://ourworldindata.org/covid-deaths)
